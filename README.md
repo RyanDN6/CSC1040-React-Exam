@@ -1,1 +1,1 @@
-# CSC1040-React-Exam
+# University Registration System Project powered by Django's restAPI
